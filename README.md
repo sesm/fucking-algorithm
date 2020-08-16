@@ -81,7 +81,7 @@ This command specifies the `english` branch and will limit the depth of the clon
   * [Union-Find Algorithm in Detail](think_like_computer/Union-find-Explanation.md)
   * [Union-Find Application](think_like_computer/Union-Find-Application.md)
   * [Find Sebesquence With Binary Search](interview/findSebesquenceWithBinarySearch.md)
-  * [Problems can be sloved by one line](interview/one-line-code-puzzles.md)
+  * [Problems can be solved by one line](interview/one-line-code-puzzles.md)
   * [How to Find Dup and Missing Element](interview/Find-Duplicate-and-Missing-Element.md)
   * [How to Check Palindrom LinkedList](interview/check_palindromic_linkedlist.md)
 
